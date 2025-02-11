@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631899907623",
+    "project_id": "phone-fire",
+    "storage_bucket": "phone-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631899907623:android:24561fe548831dd4de9002",
+        "android_client_info": {
+          "package_name": "com.example.test_logo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631899907623-0qkpp7brq9p5h5dk6ehhpstckic1bs1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFLrPwP8C6keYov2Iy7Joj8Eseo2SVZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631899907623-0qkpp7brq9p5h5dk6ehhpstckic1bs1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
